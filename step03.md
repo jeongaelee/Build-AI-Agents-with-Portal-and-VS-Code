@@ -10,6 +10,10 @@
 What's the policy for password resets?
 ```
 
+```text
+비밀번호 재설정 정책은 무엇인가요?
+```
+
 2. 응답에 IT 정책 문서 기반 답변이 포함되는지 확인합니다.
 
     <img src="images/image3-01.png" width="700"/>
@@ -18,6 +22,10 @@ What's the policy for password resets?
 
 ```text
 How do I request new software?
+```
+
+```text
+새 소프트웨어는 어떻게 요청하나요?
 ```
 
 4. 그라운딩 데이터 활용 여부를 다시 확인합니다.
@@ -30,6 +38,10 @@ How do I request new software?
 Can you analyze the system performance data and tell me if there are any concerning trends?
 ```
 
+```text
+시스템 성능 데이터를 분석하여 우려되는 추세가 있는지 알려주시겠습니까?
+```
+
 6. CSV 분석 결과가 요약/인사이트 형태로 나오는지 확인합니다.
 
     <img src="images/image3-03.png" width="700"/>
@@ -38,6 +50,10 @@ Can you analyze the system performance data and tell me if there are any concern
 
 ```text
 Create a chart showing CPU usage over time from the performance data
+```
+
+```text
+성능 데이터를 기반으로 시간 경과에 따른 CPU 사용량 차트를 작성하세요.
 ```
 
 8. 차트/시각화 생성이 정상 수행되는지 확인합니다.
